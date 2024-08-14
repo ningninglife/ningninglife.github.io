@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on 微光漫語</title>
+    <link>https://ningninglife.github.io/blog/</link>
+    <description>Recent content in Blogs on 微光漫語</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 29 Oct 2020 10:07:47 +0800</lastBuildDate>
+    <atom:link href="https://ningninglife.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>這邊放文章標題</title>
+      <link>https://ningninglife.github.io/blog/test/</link>
+      <pubDate>Thu, 29 Oct 2020 10:07:47 +0800</pubDate>
+      <guid>https://ningninglife.github.io/blog/test/</guid>
+      <description>hello world&#xA;im ellie&#xA;一級標題 二級標題 我喜歡學習&#xA;我喜歡學習&#xA;你好 我是 阿寶 嗨嗨 你好 我是 阿寶 這邊是引用</description>
+    </item>
+    <item>
+      <title>How To Use Checklists To Improve Your UX</title>
+      <link>https://ningninglife.github.io/blog/post-13/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <guid>https://ningninglife.github.io/blog/post-13/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+    <item>
+      <title>How To Use Checklists To Improve Your UX</title>
+      <link>https://ningninglife.github.io/blog/test3/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <guid>https://ningninglife.github.io/blog/test3/</guid>
+      <description>這是我的第三篇測試文章 妳好妳好</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://ningninglife.github.io/blog/test2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ningninglife.github.io/blog/test2/</guid>
+      <description>這是測試檔 這是次標題 這是序列 這是序列 這是序列 這是序列 這是可以展開的東東&#xA;這是可以展開的東東&#xA;這邊是引用&#xA;這是表格 這是表格 這是表格 這是表格 這是表格 這是表格 </description>
+    </item>
+  </channel>
+</rss>

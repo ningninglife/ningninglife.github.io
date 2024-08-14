@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 微光漫語</title>
+    <link>https://ningninglife.github.io/tags/</link>
+    <description>Recent content in Tags on 微光漫語</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 29 Oct 2020 10:07:47 +0800</lastBuildDate>
+    <atom:link href="https://ningninglife.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>書籍相關</title>
+      <link>https://ningninglife.github.io/tags/%E6%9B%B8%E7%B1%8D%E7%9B%B8%E9%97%9C/</link>
+      <pubDate>Thu, 29 Oct 2020 10:07:47 +0800</pubDate>
+      <guid>https://ningninglife.github.io/tags/%E6%9B%B8%E7%B1%8D%E7%9B%B8%E9%97%9C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>棒棒</title>
+      <link>https://ningninglife.github.io/tags/%E6%A3%92%E6%A3%92/</link>
+      <pubDate>Thu, 29 Oct 2020 10:07:47 +0800</pubDate>
+      <guid>https://ningninglife.github.io/tags/%E6%A3%92%E6%A3%92/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Game</title>
+      <link>https://ningninglife.github.io/tags/game/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <guid>https://ningninglife.github.io/tags/game/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HTML</title>
+      <link>https://ningninglife.github.io/tags/html/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <guid>https://ningninglife.github.io/tags/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>New</title>
+      <link>https://ningninglife.github.io/tags/new/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <guid>https://ningninglife.github.io/tags/new/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Photos</title>
+      <link>https://ningninglife.github.io/tags/photos/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <guid>https://ningninglife.github.io/tags/photos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://ningninglife.github.io/tags/python/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <guid>https://ningninglife.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
